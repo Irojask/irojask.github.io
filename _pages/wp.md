@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Papers"
+title: "Working Papers"
 permalink: /wp/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* Shock-dependent Cognitive Discounting and the Forward Guidance Puzzle (_with Benjamín García and Agustín Arias_) [Draft](https://irojask.github.io/files/FG_CognitiveDiscount.pdf)
-* 
+* [Shock-dependent Cognitive Discounting and the Forward Guidance Puzzle](https://irojask.github.io/files/FG_CognitiveDiscount.pdf) (_R&R IMF Economic Review_) (_with Benjamín García and Agustín Arias_) [Slides](https://irojask.github.io/files/Presentación_LACEA_2024_AGR.pdf)
 
 
 Work in Process
