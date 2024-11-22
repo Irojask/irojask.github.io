@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-A data-driven personal website
 ======
 
 I am a research assistant at the research department of the Central Bank of Chile. My research interests lie in understanding the impact of aggregate shocks in different parts of the economies distribution, the Forward Guidance puzzle and the credibility channel in NK models, and the propagation channels of different HANK models.
