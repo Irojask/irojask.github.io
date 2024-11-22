@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](http://irojask.github.io/files/CV_IgnacioRojasKing.pdf)
+You can find my CV [here](http://irojask.github.io/files/CV_IRojasKing_eng.pdf)
 
 ## $$ {\color{white}{Central \space Bank \space of \space Chile}} $$
 ## $$ {\color{white}{Central \space Bank \space of \space Chile}} $$
