@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publications_md/
 author_profile: true
 ---
 
@@ -12,4 +12,4 @@ author_profile: true
 {% include base_path %}
 
 * Transmission mechanisms in HANK: An application to Chile (_with Benjamín García, [Mario Giarda]() and Carlos Lizama) 
-[LA Journal of Central Banking,2024] (https://www.sciencedirect.com/science/article/pii/S2666143824000073) [WP] (https://www.bcentral.cl/en/content/-/details/working-papers-n-1013)
+[LA Journal of Central Banking,2024](https://www.sciencedirect.com/science/article/pii/S2666143824000073), [WP](https://www.bcentral.cl/en/content/-/details/working-papers-n-1013)
