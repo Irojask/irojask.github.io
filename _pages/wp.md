@@ -1,4 +1,4 @@
-
+---
 layout: archive
 title: "Work in Progress"
 permalink: /wp/
