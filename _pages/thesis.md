@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications_md/
+title: "MA Econ Thesis"
+permalink: /thesis/
 author_profile: true
 redirect_from:
 ---
