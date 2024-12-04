@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications_md/
+permalink: /teaching_md/
 author_profile: true
 redirect_from:
 ---
