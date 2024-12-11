@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * [Shock-dependent Cognitive Discounting and the Forward Guidance Puzzle](https://irojask.github.io/files/FG_CognitiveDiscount.pdf) (_R&R IMF Economic Review_) (_with Benjamín García and Agustín Arias_) [Slides](https://irojask.github.io/files/Presentación_LACEA_2024_AGR.pdf)
-* [Do prudent consumers save against inflation risk?](https://irojask.github.io/files/Inflation_risk.pdf) (_with [Alexandre Janiak](https://sites.google.com/site/ajaniak/)_) [Draft coming soon]
+* [Do prudent consumers save against inflation risk?](https://irojask.github.io/files/insights.pdf) (_with [Alexandre Janiak](https://sites.google.com/site/ajaniak/)_) [Draft coming soon]
 
 
 Work in Process
